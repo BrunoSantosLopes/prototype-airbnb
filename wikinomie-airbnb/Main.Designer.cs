@@ -1,4 +1,4 @@
-﻿namespace WikinomieAirbnb
+﻿namespace PrototypeWikinomie
 {
     partial class Main
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace WikinomieAirbnb.Models
+namespace PrototypeWikinomie.Models
 {
     [JsonObject(Title = "entry")]
     public class SendEntry

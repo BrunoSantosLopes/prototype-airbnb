@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WikinomieAirbnb.Models.Tags
+namespace PrototypeWikinomie.Models.Tags
 {
     public class TagList
     {

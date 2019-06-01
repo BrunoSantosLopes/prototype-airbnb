@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WikinomieAirbnb
+namespace PrototypeWikinomie
 {
     static class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikinomieAirbnb", "wikinomie-airbnb\WikinomieAirbnb.csproj", "{DE7EA8BD-DB0D-4B29-8905-F9D9C10914C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeWikinomie", "wikinomie-airbnb\PrototypeWikinomie.csproj", "{DE7EA8BD-DB0D-4B29-8905-F9D9C10914C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

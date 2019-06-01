@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace WikinomieAirbnb.Models.Observatory
+namespace PrototypeWikinomie.Models.Observatory
 {
     public class ObservatoyContainer
     {

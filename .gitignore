@@ -1,3 +1,5 @@
 .vs/*
 wikinomie-airbnb/bin/*
 wikinomie-airbnb/obj/*
+wikinomie-airbnb/publish/*
+wikinomie-airbnb/WikinomieAirbnb_TemporaryKey.pfx

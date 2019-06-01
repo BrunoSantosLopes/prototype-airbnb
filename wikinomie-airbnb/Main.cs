@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using WikinomieAirbnb.Models;
-using WikinomieAirbnb.Models.Observatory;
+using PrototypeWikinomie.Models;
+using PrototypeWikinomie.Models.Observatory;
 
-namespace WikinomieAirbnb
+namespace PrototypeWikinomie
 {
     public partial class Main : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace WikinomieAirbnb.Models.Observatory
+﻿namespace PrototypeWikinomie.Models.Observatory
 {
     public class Entry
     {

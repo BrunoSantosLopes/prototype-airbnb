@@ -2,11 +2,11 @@
 using RestSharp;
 using System.Collections.Generic;
 using System.Linq;
-using WikinomieAirbnb.Models;
-using WikinomieAirbnb.Models.Observatory;
-using WikinomieAirbnb.Models.Tags;
+using PrototypeWikinomie.Models;
+using PrototypeWikinomie.Models.Observatory;
+using PrototypeWikinomie.Models.Tags;
 
-namespace WikinomieAirbnb
+namespace PrototypeWikinomie
 {
     public class CowabooService
     {

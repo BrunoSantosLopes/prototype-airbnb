@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WikinomieAirbnb.Properties {
+namespace PrototypeWikinomie.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
