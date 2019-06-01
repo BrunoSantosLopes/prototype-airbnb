@@ -1,4 +1,4 @@
-# prototype-cowaboo
+# prototype-airbnb
 # Recherche et analyse sur Airbnb - Travail étudiant - HES-SO HEG
 
 Ce projet a pour but d’utiliser l’api de [Cowaboo](http://groups.cowaboo.net/2019/group07%20-%20Airbnb%20en%202019/public/api) pour faciliter la récupération de statistique sur les logements d’Airbnb en Suisse.
